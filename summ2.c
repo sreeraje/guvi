@@ -14,8 +14,7 @@ int main()
     }
     max = a[0];
     min = a[0];
- 
-   for(i=1; i<n; i++)
+ for(i=1; i<n; i++)
     {
         if(a[i]>max)
         {
